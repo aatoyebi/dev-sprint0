@@ -53,4 +53,4 @@ Answer: pu(bob)
 		bk(bob, r)
 
 -- What is this type of requirement called?
-Answer:
+Answer: postcondition

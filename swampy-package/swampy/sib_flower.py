@@ -49,14 +49,5 @@ forward(bob, 100)
 drawFlower(bob, 20, 140, 20)					
 
 
-wait_for_user()					
-
-
-
-
-
-
-
-
-wait_for_user()					
+wait_for_user()		
 
